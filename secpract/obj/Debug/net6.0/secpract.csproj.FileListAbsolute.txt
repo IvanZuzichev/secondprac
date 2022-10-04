@@ -1,0 +1,15 @@
+C:\Users\79671\source\repos\secpract\secpract\bin\Debug\net6.0\secpract.exe
+C:\Users\79671\source\repos\secpract\secpract\bin\Debug\net6.0\secpract.deps.json
+C:\Users\79671\source\repos\secpract\secpract\bin\Debug\net6.0\secpract.runtimeconfig.json
+C:\Users\79671\source\repos\secpract\secpract\bin\Debug\net6.0\secpract.dll
+C:\Users\79671\source\repos\secpract\secpract\bin\Debug\net6.0\secpract.pdb
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.csproj.AssemblyReference.cache
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.AssemblyInfoInputs.cache
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.AssemblyInfo.cs
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.csproj.CoreCompileInputs.cache
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.dll
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\refint\secpract.dll
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.pdb
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\secpract.genruntimeconfig.cache
+C:\Users\79671\source\repos\secpract\secpract\obj\Debug\net6.0\ref\secpract.dll
